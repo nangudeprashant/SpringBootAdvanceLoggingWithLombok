@@ -1,0 +1,8 @@
+2020-11-02 20:25:45,465 INFO com.javaLive.main.SpringBootAdvanceLoggingWithZeroConfigApplication [main] Starting SpringBootAdvanceLoggingWithZeroConfigApplication on DELL with PID 5920 (E:\Prashant\Java\JavaLive\AllNewWorkspace\SpringBootAdvanceLoggingWithZeroConfig\target\classes started by Administrator in E:\Prashant\Java\JavaLive\AllNewWorkspace\SpringBootAdvanceLoggingWithZeroConfig)
+2020-11-02 20:25:45,471 DEBUG com.javaLive.main.SpringBootAdvanceLoggingWithZeroConfigApplication [main] Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-02 20:25:45,473 INFO com.javaLive.main.SpringBootAdvanceLoggingWithZeroConfigApplication [main] No active profile set, falling back to default profiles: default
+2020-11-02 20:25:48,799 INFO com.javaLive.main.SpringBootAdvanceLoggingWithZeroConfigApplication [main] Started SpringBootAdvanceLoggingWithZeroConfigApplication in 4.227 seconds (JVM running for 6.243)
+2020-11-02 20:25:48,808 INFO com.javaLive.main.SpringBootAdvanceLoggingWithZeroConfigApplication [main] =========This is info level log message.===================
+2020-11-02 20:25:48,808 DEBUG com.javaLive.main.SpringBootAdvanceLoggingWithZeroConfigApplication [main] =========This is debug level log message.===================
+2020-11-02 20:25:48,808 WARN com.javaLive.main.SpringBootAdvanceLoggingWithZeroConfigApplication [main] =========This is warn level log message.===================
+2020-11-02 20:25:48,808 ERROR com.javaLive.main.SpringBootAdvanceLoggingWithZeroConfigApplication [main] =========This is error level log message.===================
